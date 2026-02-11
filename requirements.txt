@@ -1,0 +1,6 @@
+streamlit
+pandas
+pydeck
+st-supabase-connection
+supabase
+requests
